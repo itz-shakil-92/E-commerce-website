@@ -1,6 +1,6 @@
 # E-Commerce Website
 
-![E-Commerce Website](/images/e-commerce-screenshot.png)
+ ![E-commerce Website](https://github.com/itz-shakil-92/E-commerce-website/assets/141863929/904ee89a-7012-4a64-b253-290c38a4a2cb)
 
 This is an e-commerce website created using HTML, CSS, and JavaScript. It features a user-friendly interface that allows customers to browse and purchase products. The website includes sections for shopping, customer reviews, blog posts, and a contact page.
 
@@ -11,7 +11,6 @@ This is an e-commerce website created using HTML, CSS, and JavaScript. It featur
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -33,7 +32,7 @@ This is an e-commerce website created using HTML, CSS, and JavaScript. It featur
 
 ## Demo
 
-You can view a live demo of the E-Commerce Website [here](https://your-ecommerce-website-demo.com).
+You can view a live demo of the E-Commerce Website [here]((https://ecart2023.netlify.app/)).
 
 ## Installation
 
@@ -66,30 +65,26 @@ You can view a live demo of the E-Commerce Website [here](https://your-ecommerce
 If you'd like to contribute to this project, please follow these steps:
 -Fork the repository.
 
--Create a new branch for your feature or bug fix:
-    ```bash
-          git checkout -b feature/your-feature-name
+1. Create a new branch for your feature or bug fix:
+   ```bash
+      git checkout -b feature/your-feature-name
+
           
--Make your changes and commit them:
-    ```bash 
-        git commit -m "Add your commit message here"
+2. Make your changes and commit them:
+   ```bash 
+   git commit -m "Add your commit message here
 
--Push to your fork:
-    ```bash
-        git push origin feature/your-feature-name
+  3.Push to your fork:
 
--Create a pull request to the main repository.
+     git push origin feature/your-feature-name
 
 
-## Deployment:
- We can find the website on [https://ecart2023.netlify.app/](https://ecart2023.netlify.app/)
+  4.Create a pull request to the main repository.
 
 ## Author
-- Shakil Kathat
-- [itz-shakil-92](https://www.github.com/itz-shakil-92)
+- [Shakil Kathat](https://www.github.com/itz-shakil-92)
 
-## ![Screenshot 2023-10-24 231258](https://github.com/itz-shakil-92/E-commerce-website/assets/141863929/904ee89a-7012-4a64-b253-290c38a4a2cb)
-Contact
+## Contact
 If you have any questions or need further assistance, please feel free to contact us at shakilkathat5603@gmail.com
 
 
