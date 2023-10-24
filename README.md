@@ -1,6 +1,6 @@
 # E-Commerce Website
 
-![E-Commerce Website](e-commerce-screenshot.png)
+![E-Commerce Website](/images/e-commerce-screenshot.png)
 
 This is an e-commerce website created using HTML, CSS, and JavaScript. It features a user-friendly interface that allows customers to browse and purchase products. The website includes sections for shopping, customer reviews, blog posts, and a contact page.
 
@@ -48,7 +48,7 @@ You can view a live demo of the E-Commerce Website [here](https://your-ecommerce
 
 3.Open the index.html file in your web browser to view the website locally.
 
-##Usage
+## Usage
 - To access the website, open the index.html file in your web browser.
 
 - Use the navigation bar to explore different sections of the website: Home, Shop, Review, Blog, and Contact.
@@ -62,7 +62,7 @@ You can view a live demo of the E-Commerce Website [here](https://your-ecommerce
 - Connect with the website owner via the "Contact Us" page.
 
 
-##Contributing
+## Contributing
 If you'd like to contribute to this project, please follow these steps:
 -Fork the repository.
 
@@ -81,14 +81,15 @@ If you'd like to contribute to this project, please follow these steps:
 -Create a pull request to the main repository.
 
 
-##Deployment:
+## Deployment:
  We can find the website on [https://ecart2023.netlify.app/](https://ecart2023.netlify.app/)
 
-##Author
+## Author
 - Shakil Kathat
 - [itz-shakil-92](https://www.github.com/itz-shakil-92)
 
-##Contact
+## ![Screenshot 2023-10-24 231258](https://github.com/itz-shakil-92/E-commerce-website/assets/141863929/904ee89a-7012-4a64-b253-290c38a4a2cb)
+Contact
 If you have any questions or need further assistance, please feel free to contact us at shakilkathat5603@gmail.com
 
 
