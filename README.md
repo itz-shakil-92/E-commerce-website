@@ -32,7 +32,7 @@ This is an e-commerce website created using HTML, CSS, and JavaScript. It featur
 
 ## Demo
 
-You can view a live demo of the E-Commerce Website [here]((https://ecart2023.netlify.app/)).
+You can view a live demo of the E-Commerce Website [here](https://ecart2023.netlify.app/).
 
 ## Installation
 
